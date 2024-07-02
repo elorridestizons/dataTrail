@@ -34,9 +34,7 @@ data_load_state = st.text('Loading data...')
 link = "https://github.com/elorridestizons/dataTrail/blob/main/swiss_canyon_trail_2024/df_finish.csv"
 
 f = urlopen(link)
-myfile = f.read()
-
-data = load_data(myfile)
+data = f.read()
 
 # Notify the reader that the data was successfully loaded.
 data_load_state.text("Success: Data Loaded!")
