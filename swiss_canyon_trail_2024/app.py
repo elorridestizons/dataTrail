@@ -12,7 +12,6 @@ import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
 import seaborn as sns
-from urllib.request import urlopen
 
 
 # Set the app title 
@@ -28,13 +27,7 @@ def load_data(df):
 # Create a text element and let the reader know the data is loading.
 data_load_state = st.text('Loading data...')
 
-
-
-
-link = "https://github.com/elorridestizons/dataTrail/blob/main/swiss_canyon_trail_2024/df_finish.csv"
-
-f = urlopen(link)
-data = f.read()
+data = pd.read_csv("https://raw.githubusercontent.com/elorridestizons/dataTrail/main/swiss_canyon_trail_2024/df_finish.csv")
 
 # Notify the reader that the data was successfully loaded.
 data_load_state.text("Success: Data Loaded!")
