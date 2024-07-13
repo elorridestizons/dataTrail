@@ -2,7 +2,7 @@
 name = "swiss-canyon-trail-2024"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Elorri Destizons <elorri.destizons@laposte.net>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
