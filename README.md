@@ -9,10 +9,6 @@ Ce dépôt contient les analyses de données pour différentes courses de trail.
 - **Description:** Analyse des résultats du Swiss Canyon Trail 2024
 - **Distances:** 16k, 31k, 51k, 81k, 111k
 
-### 🏔️ Sierre-Zinal 2024  
-- **Dossier:** `sierre_zinal_2024/`
-- **Description:** Analyse des résultats de la course Sierre-Zinal 2024
-
 ### 🏔️ Trail des Glières 2025
 - **Dossier:** `trail_glieres_2025/`
 - **Description:** Analyse des résultats du Trail des Glières 2025
