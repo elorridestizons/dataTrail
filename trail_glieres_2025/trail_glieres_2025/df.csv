@@ -1,0 +1,350 @@
+Pl.,Dos,Nationalite,Nom,Club,Sx,Cat,Par cat.,Sous Dine,Landron,Pré Arrivée,Temps,Ecart,Moy,Type,Temps_sec,Ecart_sec
+1,2120,FRA,FICHEUX Enzo,,Homme,S-M0H,1,0 days 01:16:34,0 days 01:30:15,0 days 01:56:45,0 days 01:58:37,,10.6,solo,7117,
+2,2035,FRA,GENAND Leo,ARVE ATHLÉTISME,Homme,S-M0H,2,0 days 01:16:08,0 days 01:31:04,0 days 01:59:03,0 days 02:00:41,0 days 00:02:04,10.4,solo,7241,124
+3,2246,FRA,THIVOLET Mattéo,ENTENTE ARVE ATHLÉTISME,Homme,S-M0H,3,0 days 01:26:08,0 days 01:41:34,0 days 02:09:44,0 days 02:11:25,0 days 00:12:48,9.6,solo,7885,768
+4,2146,FRA,BLAZER Tanguy,,Homme,S-M0H,4,0 days 01:27:14,0 days 01:43:10,0 days 02:12:07,0 days 02:13:59,0 days 00:15:22,9.4,solo,8039,922
+5,2240,FRA,HURTAULT Romain,,Homme,M1-5H,1,0 days 01:28:15,0 days 01:43:50,0 days 02:14:41,0 days 02:16:37,0 days 00:18:00,9.2,solo,8197,1080
+6,2270,FRA,BESSON Lucile,,Femme,S-M0F,1,0 days 01:29:29,0 days 01:46:16,0 days 02:16:42,0 days 02:18:53,0 days 00:20:16,9.1,solo,8333,1216
+7,2264,FRA,MULLER Jonathan,,Homme,S-M0H,5,0 days 01:33:57,0 days 01:50:54,0 days 02:22:38,0 days 02:24:43,0 days 00:26:06,8.7,solo,8683,1566
+8,2041,FRA,LAURENT Paul,,Homme,S-M0H,6,0 days 01:36:14,0 days 01:51:50,0 days 02:23:24,0 days 02:25:20,0 days 00:26:43,8.7,solo,8720,1603
+9,2005,FRA,LOUIS-SARROLA Thomas,,Homme,S-M0H,7,0 days 01:32:55,0 days 01:50:31,0 days 02:23:52,0 days 02:25:57,0 days 00:27:20,8.6,solo,8757,1640
+10,2271,FRA,LAFAYE Céline,CMI,Femme,M1-5F,1,0 days 01:33:43,0 days 01:52:26,0 days 02:24:33,0 days 02:26:35,0 days 00:27:58,8.6,solo,8795,1678
+11,2023,FRA,RAPHALEN Jules,,Homme,S-M0H,8,0 days 01:32:48,0 days 01:50:11,0 days 02:26:10,0 days 02:28:15,0 days 00:29:38,8.5,solo,8895,1778
+12,2069,FRA,BRAND Lorris,,Homme,S-M0H,9,0 days 01:34:35,0 days 01:53:43,0 days 02:31:15,0 days 02:32:53,0 days 00:34:16,8.2,solo,9173,2056
+13,2526,FRA,MERINO Pierrick,,Homme,S-M0H,1,0 days 01:37:31,0 days 01:56:25,0 days 02:31:37,0 days 02:33:53,0 days 00:35:16,8.2,solo,9233,2116
+14,2249,FRA,VIGNÉ Fabien,CLUB NORDIC DES GLIÈRES,Homme,M1-5H,2,0 days 01:38:24,0 days 01:56:34,0 days 02:31:46,0 days 02:34:00,0 days 00:35:23,8.2,solo,9240,2123
+15,2184,FRA,BONNIOT Aurélien,,Homme,M1-5H,3,0 days 01:38:15,0 days 01:56:36,0 days 02:32:04,0 days 02:34:14,0 days 00:35:37,8.2,solo,9254,2137
+16,2109,FRA,MORIN Murielle,,Femme,S-M0F,2,0 days 01:39:01,0 days 01:57:42,0 days 02:32:55,0 days 02:35:05,0 days 00:36:28,8.1,solo,9305,2188
+17,2188,FRA,CADMAN Pierre,,Homme,S-M0H,10,0 days 01:39:38,0 days 01:58:24,0 days 02:33:36,0 days 02:35:36,0 days 00:36:59,8.1,solo,9336,2219
+18,2197,FRA,LAPHIN Alexis,,Homme,S-M0H,11,0 days 01:40:23,0 days 01:58:26,0 days 02:34:49,0 days 02:36:57,0 days 00:38:20,8.0,solo,9417,2300
+19,2059,SUI,HAURI Fabien,,Homme,S-M0H,12,0 days 01:39:16,0 days 01:58:07,0 days 02:36:28,0 days 02:38:30,0 days 00:39:53,7.9,solo,9510,2393
+20,2036,FRA,DOREY Anne-fleur,,Femme,S-M0F,3,0 days 01:42:04,0 days 02:00:25,0 days 02:36:37,0 days 02:38:45,0 days 00:40:08,7.9,solo,9525,2408
+21,2066,FRA,PLAZENET Thibaud,,Homme,S-M0H,13,0 days 01:42:10,0 days 02:02:07,0 days 02:38:32,0 days 02:40:43,0 days 00:42:06,7.8,solo,9643,2526
+22,2061,FRA,PISANO Nicolas,,Homme,S-M0H,14,0 days 01:42:09,0 days 02:02:09,0 days 02:38:55,0 days 02:40:51,0 days 00:42:14,7.8,solo,9651,2534
+23,2043,FRA,LECOEUCHE Fanny,CAF ANNECY,Femme,S-M0F,4,0 days 01:42:07,0 days 02:01:15,0 days 02:39:21,0 days 02:41:47,0 days 00:43:10,7.8,solo,9707,2590
+24,2161,FRA,FALLIÈRES Jérôme,MACULLO,Homme,M1-5H,4,0 days 01:45:35,0 days 02:03:16,0 days 02:40:17,0 days 02:42:44,0 days 00:44:07,7.7,solo,9764,2647
+25,2051,FRA,SADDIK Soufian,,Homme,S-M0H,15,0 days 01:44:16,0 days 02:03:39,0 days 02:40:48,0 days 02:42:54,0 days 00:44:17,7.7,solo,9774,2657
+26,2261,FRA,BOURBON Jules,MULET HEADWEAR,Homme,S-M0H,16,0 days 01:41:19,0 days 02:01:58,0 days 02:40:53,0 days 02:42:54,0 days 00:44:17,7.7,solo,9774,2657
+27,2134,FRA,MUTHIG Paul,,Homme,S-M0H,17,0 days 01:46:32,0 days 02:06:33,0 days 02:42:47,0 days 02:44:55,0 days 00:46:18,7.6,solo,9895,2778
+28,2084,FRA,LEFEBVRE Antoine,EQUIPE ROUMANIE,Homme,S-M0H,18,0 days 01:35:52,0 days 02:00:39,0 days 02:43:05,0 days 02:45:07,0 days 00:46:30,7.6,solo,9907,2790
+29,2175,FRA,HENRY Léopold,JOSÉ FREITAS,Homme,S-M0H,19,0 days 01:43:40,0 days 02:03:15,0 days 02:43:10,0 days 02:45:17,0 days 00:46:40,7.6,solo,9917,2800
+30,2107,FRA,PACAUD Simon,ZAZATSARA ATHLÉTISME MAYOTTE,Homme,S-M0H,20,0 days 01:44:49,0 days 02:04:56,0 days 02:43:06,0 days 02:45:18,0 days 00:46:41,7.6,solo,9918,2801
+31,2190,FRA,VINDRET Loïc,,Homme,S-M0H,21,0 days 01:43:03,0 days 02:05:25,0 days 02:44:23,0 days 02:46:38,0 days 00:48:01,7.6,solo,9998,2881
+32,2020,FRA,CORBEL Gabriel,,Homme,M1-5H,5,0 days 01:43:12,0 days 02:05:16,0 days 02:44:48,0 days 02:46:53,0 days 00:48:16,7.6,solo,10013,2896
+33,2101,FRA,DEMOLIÈRES Sylvain,SPORT FOR ME,Homme,M1-5H,6,0 days 01:47:50,0 days 02:09:44,0 days 02:44:53,0 days 02:47:01,0 days 00:48:24,7.5,solo,10021,2904
+34,2245,FRA,LE NET Dorian,,Homme,S-M0H,22,0 days 01:46:20,0 days 02:06:30,0 days 02:47:06,0 days 02:49:11,0 days 00:50:34,7.4,solo,10151,3034
+35,2106,FRA,DANTZER Mathis,,Homme,S-M0H,23,0 days 01:51:30,0 days 02:11:20,0 days 02:48:04,0 days 02:49:55,0 days 00:51:18,7.4,solo,10195,3078
+36,2268,FRA,RUIZ Jean-michel,,Homme,S-M0H,24,0 days 01:42:28,0 days 02:05:56,0 days 02:49:13,0 days 02:51:04,0 days 00:52:27,7.4,solo,10264,3147
+37,2029,FRA,BIANCO Charly,,Homme,S-M0H,25,0 days 01:50:38,0 days 02:11:49,0 days 02:49:51,0 days 02:51:53,0 days 00:53:16,7.3,solo,10313,3196
+38,2110,FRA,FAVIER DU NOYER Virginie,,Femme,M1-5F,2,0 days 01:51:30,0 days 02:12:52,0 days 02:51:30,0 days 02:53:50,0 days 00:55:13,7.2,solo,10430,3313
+39,2080,FRA,REFFORD Julien,,Homme,M1-5H,7,0 days 01:49:33,0 days 02:11:48,0 days 02:51:49,0 days 02:54:18,0 days 00:55:41,7.2,solo,10458,3341
+40,2156,FRA,DEMAISON Erwan,,Homme,S-M0H,26,0 days 01:49:29,0 days 02:11:42,0 days 02:53:27,0 days 02:55:17,0 days 00:56:40,7.2,solo,10517,3400
+41,2275,FRA,REMY Julien,,Homme,M1-5H,8,0 days 01:51:20,0 days 02:13:03,0 days 02:53:35,0 days 02:55:51,0 days 00:57:14,7.2,solo,10551,3434
+42,2254,FRA,BOUTHIAUX Antoine,SC PAYS ROCHOIS,Homme,M1-5H,9,0 days 01:52:46,0 days 02:12:42,0 days 02:54:18,0 days 02:56:39,0 days 00:58:02,7.1,solo,10599,3482
+43,2040,FRA,MESSELEKA Nelson,GAMBERGE FILS,Homme,S-M0H,27,0 days 01:36:00,0 days 02:00:35,0 days 02:54:40,0 days 02:57:00,0 days 00:58:23,7.1,solo,10620,3503
+44,2187,FRA,DESAINTJEAN Charlène,,Femme,S-M0F,5,0 days 01:52:54,0 days 02:15:32,0 days 02:54:53,0 days 02:57:23,0 days 00:58:46,7.1,solo,10643,3526
+45,2239,GBR,BARCLAY Jamie,,Homme,M1-5H,10,0 days 01:56:01,0 days 02:16:14,0 days 02:55:24,0 days 02:58:01,0 days 00:59:24,7.1,solo,10681,3564
+46,2096,FRA,BRODU Theophile,,Homme,S-M0H,28,0 days 01:54:20,0 days 02:14:35,0 days 02:55:33,0 days 02:58:06,0 days 00:59:29,7.1,solo,10686,3569
+47,2267,FRA,VILLAR Julien,,Homme,S-M0H,29,0 days 01:52:13,0 days 02:14:00,0 days 02:57:14,0 days 02:59:34,0 days 01:00:57,7.0,solo,10774,3657
+48,2072,FRA,JACOB Quentin,,Homme,S-M0H,30,0 days 01:57:04,0 days 02:19:20,0 days 02:57:36,0 days 03:00:08,0 days 01:01:31,7.0,solo,10808,3691
+49,2243,FRA,BARBIER Valentin,,Homme,S-M0H,31,0 days 01:56:40,0 days 02:19:41,0 days 02:58:32,0 days 03:00:39,0 days 01:02:02,7.0,solo,10839,3722
+50,2276,FRA,HUET Hervé,,Homme,M1-5H,11,0 days 01:53:35,0 days 02:17:01,0 days 02:59:17,0 days 03:01:31,0 days 01:02:54,6.9,solo,10891,3774
+51,2198,FRA,DUPARC Philippe,,Homme,M1-5H,12,0 days 01:54:08,0 days 02:15:55,0 days 02:59:06,0 days 03:01:31,0 days 01:02:54,6.9,solo,10891,3774
+52,2042,FRA,M. P.,,Homme,M1-5H,13,0 days 01:57:24,0 days 02:17:26,0 days 02:59:34,0 days 03:02:10,0 days 01:03:33,6.9,solo,10930,3813
+53,2251,FRA,DURIX--MURIS Liv,TEAM TRIANDINE TRAIL,Femme,JEUF,1,0 days 01:53:13,0 days 02:15:39,0 days 03:01:02,0 days 03:03:24,0 days 01:04:47,6.9,solo,11004,3887
+54,2014,FRA,DELAMARRE Pierre,ZAG TEAM,Homme,M1-5H,14,0 days 01:58:39,0 days 02:19:23,0 days 03:01:04,0 days 03:03:29,0 days 01:04:52,6.9,solo,11009,3892
+55,2151,FRA,GUYOT Florian,PATEK PHILIPPE,Homme,S-M0H,32,0 days 01:55:04,0 days 02:18:32,0 days 03:01:31,0 days 03:03:50,0 days 01:05:13,6.9,solo,11030,3913
+56,2213,FRA,PICARD Tristan,,Homme,S-M0H,33,0 days 01:53:34,0 days 02:17:16,0 days 03:01:59,0 days 03:04:11,0 days 01:05:34,6.8,solo,11051,3934
+57,2129,FRA,LELEU Paco,,Homme,JEUH,1,0 days 01:54:48,0 days 02:17:15,0 days 03:01:46,0 days 03:04:12,0 days 01:05:35,6.8,solo,11052,3935
+58,2230,FRA,BOURDON Dorian,,Homme,S-M0H,34,0 days 02:01:30,0 days 02:23:05,0 days 03:02:36,0 days 03:04:23,0 days 01:05:46,6.8,solo,11063,3946
+59,2021,FRA,BAUD Florian,,Homme,S-M0H,35,0 days 01:55:26,0 days 02:17:09,0 days 03:02:10,0 days 03:04:30,0 days 01:05:53,6.8,solo,11070,3953
+60,2237,FRA,CARON Margaux,,Femme,S-M0F,6,0 days 01:57:17,0 days 02:22:39,0 days 03:03:23,0 days 03:05:31,0 days 01:06:54,6.8,solo,11131,4014
+61,2133,FRA,BISQUERRA Jean Baptiste,TEAM ANTO,Homme,S-M0H,36,0 days 01:56:11,0 days 02:18:07,0 days 03:03:53,0 days 03:05:52,0 days 01:07:15,6.8,solo,11152,4035
+62,2244,FRA,CURTY Stéphane,,Homme,M1-5H,15,0 days 01:59:51,0 days 02:21:07,0 days 03:03:45,0 days 03:06:15,0 days 01:07:38,6.8,solo,11175,4058
+63,2218,FRA,TARREAU Steivan,,Homme,S-M0H,37,0 days 01:59:53,0 days 02:19:52,0 days 03:03:55,0 days 03:06:15,0 days 01:07:38,6.8,solo,11175,4058
+64,2248,FRA,JOBARD Thibaut,,Homme,S-M0H,38,0 days 01:59:47,0 days 02:21:21,0 days 03:03:57,0 days 03:06:16,0 days 01:07:39,6.8,solo,11176,4059
+65,2228,FRA,MUGNIER Yohan,,Homme,S-M0H,39,0 days 01:59:54,0 days 02:21:40,0 days 03:03:56,0 days 03:06:16,0 days 01:07:39,6.8,solo,11176,4059
+66,2124,FRA,TUMBACH Damien,,Homme,M1-5H,16,0 days 01:58:00,0 days 02:20:23,0 days 03:03:36,0 days 03:06:25,0 days 01:07:48,6.8,solo,11185,4068
+67,2231,FRA,DECHAENE Victor,,Homme,S-M0H,40,0 days 01:58:52,0 days 02:21:27,0 days 03:04:27,0 days 03:06:26,0 days 01:07:49,6.8,solo,11186,4069
+68,2266,FRA,SAR Jean-paul,,Homme,M1-5H,17,0 days 01:47:25,0 days 02:18:46,0 days 03:04:22,0 days 03:06:56,0 days 01:08:19,6.7,solo,11216,4099
+69,2205,FRA,VIGNY Léna,,Femme,S-M0F,7,0 days 02:08:59,,,0 days 03:07:57,0 days 01:09:20,6.7,solo,11277,4160
+70,2204,FRA,PECCOUX Romain,,Homme,JEUH,2,0 days 01:56:56,0 days 02:20:17,0 days 03:06:02,0 days 03:08:26,0 days 01:09:49,6.7,solo,11306,4189
+71,2260,FRA,GRABOWSKI Yoann,,Homme,M1-5H,18,0 days 01:58:40,0 days 02:21:42,0 days 03:06:24,0 days 03:09:04,0 days 01:10:27,6.7,solo,11344,4227
+72,2166,FRA,TILLOY Chloé,,Femme,S-M0F,8,0 days 01:58:00,0 days 02:22:00,0 days 03:07:38,0 days 03:09:51,0 days 01:11:14,6.6,solo,11391,4274
+73,2277,FRA,G. S.,,Homme,M1-5H,19,0 days 01:50:33,0 days 02:18:11,0 days 03:07:46,0 days 03:10:01,0 days 01:11:24,6.6,solo,11401,4284
+74,2238,FRA,PERSOUD Michel,,Homme,M1-5H,20,0 days 02:03:29,0 days 02:25:19,0 days 03:08:40,0 days 03:11:03,0 days 01:12:26,6.6,solo,11463,4346
+75,2063,FRA,MULLER Cassandre,,Femme,S-M0F,9,0 days 02:02:15,0 days 02:26:18,0 days 03:08:28,0 days 03:11:10,0 days 01:12:33,6.6,solo,11470,4353
+76,2164,SUI,DITTMAR Lea,,Femme,S-M0F,10,0 days 02:03:11,0 days 02:23:43,0 days 03:09:05,0 days 03:11:35,0 days 01:12:58,6.6,solo,11495,4378
+77,2178,FRA,DETEMMERMAN Hugo,,Homme,S-M0H,41,0 days 02:00:56,0 days 02:20:41,0 days 03:09:09,0 days 03:11:48,0 days 01:13:11,6.6,solo,11508,4391
+78,2229,FRA,LE CALLONEC Emmanuel,,Homme,S-M0H,42,0 days 02:01:57,0 days 02:26:03,0 days 03:10:14,0 days 03:12:27,0 days 01:13:50,6.5,solo,11547,4430
+79,2137,FRA,CHATAIN Xavier,,Homme,S-M0H,43,0 days 02:02:06,0 days 02:25:15,0 days 03:09:43,0 days 03:12:29,0 days 01:13:52,6.5,solo,11549,4432
+80,2089,FRA,HURAND Julien,,Homme,M1-5H,21,0 days 02:01:28,0 days 02:24:25,0 days 03:10:21,0 days 03:13:09,0 days 01:14:32,6.5,solo,11589,4472
+81,2155,GER,B. L.,,Femme,S-M0F,11,0 days 02:01:32,0 days 02:24:40,0 days 03:11:09,0 days 03:13:21,0 days 01:14:44,6.5,solo,11601,4484
+82,2083,FRA,MOHADJER Cyrus,,Homme,S-M0H,44,0 days 01:54:59,0 days 02:16:15,0 days 03:10:52,0 days 03:13:22,0 days 01:14:45,6.5,solo,11602,4485
+83,2210,FRA,PETIT Laurent,,Homme,M1-5H,22,0 days 02:01:28,0 days 02:27:08,0 days 03:10:57,0 days 03:13:22,0 days 01:14:45,6.5,solo,11602,4485
+84,2017,FRA,HARLEAUX Mathilde,,Femme,S-M0F,12,0 days 02:03:32,0 days 02:28:55,0 days 03:10:49,0 days 03:13:22,0 days 01:14:45,6.5,solo,11602,4485
+85,2223,FRA,VIAULT Natacha,TDA,Femme,M1-5F,3,0 days 01:59:58,0 days 02:25:54,0 days 03:10:58,0 days 03:13:23,0 days 01:14:46,6.5,solo,11603,4486
+86,2003,FRA,MONTIER Charlotte,,Femme,S-M0F,13,0 days 02:06:07,0 days 02:30:26,0 days 03:11:45,0 days 03:13:58,0 days 01:15:21,6.5,solo,11638,4521
+87,2116,FRA,SAGNOL Loic,,Homme,S-M0H,45,0 days 02:02:53,0 days 02:25:16,0 days 03:11:53,0 days 03:14:15,0 days 01:15:38,6.5,solo,11655,4538
+88,2114,FRA,JACOB Adrien,,Homme,S-M0H,46,0 days 02:02:59,0 days 02:25:50,0 days 03:11:54,0 days 03:14:15,0 days 01:15:38,6.5,solo,11655,4538
+89,2219,FRA,KOZLOV Loukiana,,Femme,S-M0F,14,0 days 02:01:57,0 days 02:27:47,0 days 03:13:10,0 days 03:15:38,0 days 01:17:01,6.4,solo,11738,4621
+90,2013,FRA,CHERENCQ Paul,,Homme,S-M0H,47,0 days 01:58:54,0 days 02:25:01,0 days 03:13:42,0 days 03:16:05,0 days 01:17:28,6.4,solo,11765,4648
+91,2250,FRA,VALMALLE Alexandre,,Homme,S-M0H,48,0 days 02:03:00,0 days 02:26:54,0 days 03:14:09,0 days 03:16:21,0 days 01:17:44,6.4,solo,11781,4664
+92,2058,FRA,SOUBEYRAND Pauline,EDT SEB CORNETTE,Femme,S-M0F,15,0 days 02:04:55,0 days 02:29:40,0 days 03:14:33,0 days 03:17:05,0 days 01:18:28,6.4,solo,11825,4708
+93,2022,FRA,GENILLIER Laurent,,Homme,M1-5H,23,0 days 02:03:08,0 days 02:27:57,0 days 03:14:26,0 days 03:17:13,0 days 01:18:36,6.4,solo,11833,4716
+94,2253,FRA,CREUZET Mallaury,,Femme,S-M0F,16,0 days 02:05:24,0 days 02:30:52,0 days 03:15:13,0 days 03:17:47,0 days 01:19:10,6.4,solo,11867,4750
+95,2099,FRA,BOULARD Renaud,,Homme,S-M0H,49,0 days 02:02:39,0 days 02:27:03,0 days 03:15:38,0 days 03:18:24,0 days 01:19:47,6.4,solo,11904,4787
+96,2009,FRA,PARMENTIER Aubin,,Homme,S-M0H,50,0 days 02:01:53,0 days 02:29:18,0 days 03:15:59,0 days 03:18:27,0 days 01:19:50,6.3,solo,11907,4790
+97,2214,FRA,DENIAU Thaïna,,Femme,JEUF,2,0 days 02:00:22,0 days 02:27:49,0 days 03:16:04,0 days 03:18:27,0 days 01:19:50,6.3,solo,11907,4790
+98,2038,FRA,BECCHERLE Geoffrey,,Homme,S-M0H,51,0 days 01:59:59,0 days 02:24:11,0 days 03:15:48,0 days 03:18:29,0 days 01:19:52,6.3,solo,11909,4792
+99,2227,FRA,ALBOURIE Jerome,,Homme,M1-5H,24,0 days 02:07:25,0 days 02:30:45,,0 days 03:19:16,0 days 01:20:39,6.3,solo,11956,4839
+100,2222,FRA,BOULANGER France,,Femme,S-M0F,17,0 days 02:05:01,0 days 02:32:39,0 days 03:17:31,0 days 03:19:40,0 days 01:21:03,6.3,solo,11980,4863
+101,2226,FRA,PUTZ-PERRIER Marie-aline,CLUB NORDIQUE DES GLIERES,Femme,M1-5F,4,0 days 02:03:33,0 days 02:30:27,0 days 03:17:31,0 days 03:19:52,0 days 01:21:15,6.3,solo,11992,4875
+102,2138,FRA,DE MONTIGNY Menehould,,Femme,S-M0F,18,0 days 02:05:10,0 days 02:30:59,0 days 03:17:44,0 days 03:20:19,0 days 01:21:42,6.3,solo,12019,4902
+103,2100,SWE,STALNACKE Johanna,,Femme,M1-5F,5,0 days 02:03:23,0 days 02:32:37,0 days 03:18:27,0 days 03:21:02,0 days 01:22:25,6.3,solo,12062,4945
+104,2104,FRA,MATTHYS Alice,,Femme,S-M0F,19,0 days 02:11:15,0 days 02:35:57,0 days 03:19:02,0 days 03:21:18,0 days 01:22:41,6.3,solo,12078,4961
+105,2105,FRA,MATTHYS Camille,,Femme,S-M0F,20,0 days 02:11:18,0 days 02:36:04,0 days 03:19:02,0 days 03:21:19,0 days 01:22:42,6.3,solo,12079,4962
+106,2019,FRA,KREBS Eric,VAHLIXRUN 🦊,Homme,M1-5H,25,0 days 02:00:33,0 days 02:28:14,0 days 03:19:09,0 days 03:21:31,0 days 01:22:54,6.3,solo,12091,4974
+107,2139,FRA,BLANC GARIN Line,,Femme,S-M0F,21,0 days 02:04:01,0 days 02:29:30,0 days 03:19:01,0 days 03:21:33,0 days 01:22:56,6.3,solo,12093,4976
+108,2127,FRA,MAEYENS Willy,,Homme,S-M0H,52,0 days 02:12:21,0 days 02:35:02,0 days 03:20:43,0 days 03:23:17,0 days 01:24:40,6.2,solo,12197,5080
+109,2172,FRA,LORAY Alexandre,,Homme,S-M0H,53,0 days 02:06:43,0 days 02:30:47,0 days 03:21:16,0 days 03:23:31,0 days 01:24:54,6.2,solo,12211,5094
+110,2224,FRA,CAUSSADE Thomas,,Homme,S-M0H,54,0 days 02:02:55,0 days 02:33:39,0 days 03:21:37,0 days 03:23:41,0 days 01:25:04,6.2,solo,12221,5104
+111,2168,FRA,MARREL Juliette,,Femme,S-M0F,22,0 days 02:07:07,0 days 02:32:13,0 days 03:21:25,0 days 03:23:48,0 days 01:25:11,6.2,solo,12228,5111
+112,2170,FRA,EISENBEIS Madeleine,,Femme,S-M0F,23,0 days 02:04:10,0 days 02:32:59,0 days 03:21:50,0 days 03:24:25,0 days 01:25:48,6.2,solo,12265,5148
+113,2220,FRA,DURAND Jean-baptiste,TRAILERS DU MÔLE,Homme,S-M0H,55,0 days 02:05:05,0 days 02:29:15,0 days 03:22:18,0 days 03:24:56,0 days 01:26:19,6.1,solo,12296,5179
+114,2095,FRA,D. Y.,,Homme,S-M0H,56,0 days 01:58:03,0 days 02:27:42,0 days 03:22:38,0 days 03:25:06,0 days 01:26:29,6.1,solo,12306,5189
+115,2186,FRA,RODET Kevin,,Homme,S-M0H,57,0 days 02:05:16,0 days 02:30:57,0 days 03:22:57,0 days 03:25:33,0 days 01:26:56,6.1,solo,12333,5216
+116,2247,FRA,PILLER Virginie,ENTENTE ARVE ATHLÉTISME,Femme,S-M0F,24,0 days 02:09:57,0 days 02:33:26,0 days 03:23:09,0 days 03:26:01,0 days 01:27:24,6.1,solo,12361,5244
+117,2115,FRA,LATHUILLE Camille,,Femme,S-M0F,25,0 days 02:08:21,0 days 02:34:14,0 days 03:23:34,0 days 03:26:17,0 days 01:27:40,6.1,solo,12377,5260
+118,2242,FRA,LEMPERNESSE Margaux,,Femme,S-M0F,26,0 days 02:10:47,0 days 02:36:47,0 days 03:24:02,0 days 03:26:21,0 days 01:27:44,6.1,solo,12381,5264
+119,2073,FRA,BAUNEZ Franck,LES JOGGEURS AUBAGNAIS,Homme,M1-5H,26,0 days 02:07:28,0 days 02:33:23,0 days 03:24:57,0 days 03:27:26,0 days 01:28:49,6.1,solo,12446,5329
+120,2236,FRA,TIVAN Claire,,Femme,S-M0F,27,0 days 02:09:20,0 days 02:37:24,0 days 03:25:32,0 days 03:27:43,0 days 01:29:06,6.1,solo,12463,5346
+121,2108,FRA,P. E.,,Homme,S-M0H,58,0 days 02:12:58,0 days 02:35:28,0 days 03:25:51,0 days 03:28:22,0 days 01:29:45,6.0,solo,12502,5385
+122,2171,FRA,SOTOCA Aurélien,,Homme,S-M0H,59,0 days 02:05:09,0 days 02:34:51,0 days 03:25:48,0 days 03:28:25,0 days 01:29:48,6.0,solo,12505,5388
+123,2028,FRA,CURTELIN Thibault,,Homme,S-M0H,60,0 days 02:05:44,0 days 02:33:50,0 days 03:26:10,0 days 03:28:38,0 days 01:30:01,6.0,solo,12518,5401
+124,2077,FRA,MARTINEAU Romain,,Homme,M1-5H,27,0 days 02:19:21,0 days 02:43:11,0 days 03:26:35,0 days 03:29:06,0 days 01:30:29,6.0,solo,12546,5429
+125,2169,FRA,MARMOUX Antoine,,Homme,S-M0H,61,0 days 02:10:39,0 days 02:32:57,0 days 03:26:23,0 days 03:29:08,0 days 01:30:31,6.0,solo,12548,5431
+126,2159,FRA,TAFFARY LEBELLEGARD Antoine,,Homme,S-M0H,62,0 days 02:03:34,0 days 02:30:57,0 days 03:26:30,0 days 03:29:20,0 days 01:30:43,6.0,solo,12560,5443
+127,2055,FRA,GALLARDO Anthony,,Homme,S-M0H,63,0 days 02:09:53,0 days 02:35:34,0 days 03:28:07,0 days 03:30:57,0 days 01:32:20,6.0,solo,12657,5540
+128,2158,FRA,STAUB Yann,OFFTRACK,Homme,S-M0H,64,0 days 02:20:29,0 days 02:46:11,0 days 03:30:18,0 days 03:32:39,0 days 01:34:02,5.9,solo,12759,5642
+129,2008,FRA,GUENEBAUD Eva,,Femme,S-M0F,28,0 days 02:06:10,0 days 02:33:43,0 days 03:30:42,0 days 03:33:13,0 days 01:34:36,5.9,solo,12793,5676
+130,2150,FRA,CHEILAN Etienne,,Homme,M1-5H,28,0 days 02:07:41,0 days 02:33:54,0 days 03:30:45,0 days 03:33:29,0 days 01:34:52,5.9,solo,12809,5692
+131,2174,FRA,BOUVIER David,,Homme,S-M0H,65,0 days 02:12:37,0 days 02:40:48,0 days 03:31:25,0 days 03:33:57,0 days 01:35:20,5.9,solo,12837,5720
+132,2086,FRA,JON Steve,,Homme,M1-5H,29,0 days 02:20:31,0 days 02:47:30,0 days 03:31:48,0 days 03:34:11,0 days 01:35:34,5.9,solo,12851,5734
+133,2232,FRA,CLAPASSON Thomas,,Homme,S-M0H,66,0 days 02:09:29,0 days 02:35:00,0 days 03:31:55,0 days 03:34:30,0 days 01:35:53,5.9,solo,12870,5753
+134,2117,FRA,SAINLOT Natacha,,Femme,S-M0F,29,0 days 02:09:34,0 days 02:35:28,0 days 03:31:55,0 days 03:34:31,0 days 01:35:54,5.9,solo,12871,5754
+135,2274,FRA,VERDON Sylvie,,Femme,M1-5F,6,0 days 02:14:37,0 days 02:41:45,0 days 03:32:17,0 days 03:35:01,0 days 01:36:24,5.9,solo,12901,5784
+136,2071,FRA,DECLERCQ Thomas,,Homme,S-M0H,67,0 days 02:16:09,0 days 02:44:27,0 days 03:32:45,0 days 03:35:22,0 days 01:36:45,5.9,solo,12922,5805
+137,2192,FRA,PHALIPPON Guillaume,,Homme,S-M0H,68,0 days 02:09:30,0 days 02:38:19,0 days 03:32:01,0 days 03:35:45,0 days 01:37:08,5.8,solo,12945,5828
+138,2191,FRA,YAUMARATH Vincent,,Homme,S-M0H,69,0 days 02:08:44,0 days 02:37:04,0 days 03:32:54,0 days 03:35:45,0 days 01:37:08,5.8,solo,12945,5828
+139,2194,FRA,NICAISE Lea,,Femme,S-M0F,30,0 days 02:16:36,0 days 02:41:01,0 days 03:33:11,0 days 03:35:54,0 days 01:37:17,5.8,solo,12954,5837
+140,2068,FRA,MAHE Jeanne,,Femme,M1-5F,7,0 days 02:16:18,0 days 02:41:24,0 days 03:33:17,0 days 03:35:56,0 days 01:37:19,5.8,solo,12956,5839
+141,2060,FRA,FANTIN Luc,ALPES KINESPORT,Homme,M1-5H,30,0 days 01:55:52,0 days 02:26:17,0 days 03:33:32,0 days 03:36:13,0 days 01:37:36,5.8,solo,12973,5856
+142,2255,FRA,NICOLAS Thibaud,,Homme,S-M0H,70,0 days 02:06:23,0 days 02:38:35,0 days 03:34:59,0 days 03:37:23,0 days 01:38:46,5.8,solo,13043,5926
+143,2258,FRA,LE TARGAT Pierre,,Homme,S-M0H,71,0 days 02:06:25,0 days 02:38:34,0 days 03:35:01,0 days 03:37:24,0 days 01:38:47,5.8,solo,13044,5927
+144,2153,FRA,BOCHARD Arnaud,,Homme,M1-5H,31,0 days 02:15:36,0 days 02:43:41,0 days 03:36:05,0 days 03:38:41,0 days 01:40:04,5.8,solo,13121,6004
+145,2193,FRA,NICAISE Violette,,Femme,S-M0F,31,,0 days 02:47:20,0 days 03:36:32,0 days 03:39:03,0 days 01:40:26,5.8,solo,13143,6026
+146,2196,FRA,PAILLER Julien,,Homme,M1-5H,32,0 days 02:15:37,0 days 02:46:17,0 days 03:36:42,0 days 03:39:07,0 days 01:40:30,5.8,solo,13147,6030
+147,2176,FRA,FERLAY Lucie,,Femme,S-M0F,32,0 days 02:21:01,0 days 02:45:13,0 days 03:36:50,0 days 03:39:35,0 days 01:40:58,5.7,solo,13175,6058
+148,2162,FRA,GRENARD Christophe,,Homme,M1-5H,33,0 days 02:21:27,0 days 02:44:34,0 days 03:37:29,0 days 03:40:01,0 days 01:41:24,5.7,solo,13201,6084
+149,2215,FRA,CAUMONT Julien,,Homme,M1-5H,34,0 days 02:16:17,0 days 02:49:13,0 days 03:38:27,0 days 03:41:00,0 days 01:42:23,5.7,solo,13260,6143
+150,2181,FRA,LETERRIER David,,Homme,M1-5H,35,0 days 02:21:37,0 days 02:46:43,0 days 03:39:47,0 days 03:43:04,0 days 01:44:27,5.6,solo,13384,6267
+151,2046,FRA,CROZET Alexandre,,Homme,S-M0H,72,0 days 02:16:51,0 days 02:46:43,0 days 03:41:10,0 days 03:43:40,0 days 01:45:03,5.6,solo,13420,6303
+152,2256,FRA,JUSSERAND Jean-luc,,Homme,M1-5H,36,0 days 02:09:42,0 days 02:46:23,0 days 03:41:30,0 days 03:43:52,0 days 01:45:15,5.6,solo,13432,6315
+153,2263,FRA,DORCIER Mathilde,AVOC,Femme,S-M0F,33,0 days 02:21:05,0 days 02:49:03,0 days 03:41:50,0 days 03:44:27,0 days 01:45:50,5.6,solo,13467,6350
+154,2131,FRA,BISQUERRA Anthony,,Homme,M1-5H,37,0 days 02:14:34,0 days 02:44:26,0 days 03:42:08,0 days 03:44:47,0 days 01:46:10,5.6,solo,13487,6370
+155,2130,FRA,PERILLAT Gaelle,TDA,Femme,S-M0F,34,0 days 02:20:35,0 days 02:48:00,0 days 03:43:56,0 days 03:46:45,0 days 01:48:08,5.6,solo,13605,6488
+156,2149,FRA,ROCHE Jean Marc,,Homme,M1-5H,38,0 days 02:18:22,0 days 02:47:10,0 days 03:43:57,0 days 03:46:45,0 days 01:48:08,5.6,solo,13605,6488
+157,2177,FRA,LOUVEL Antoine,,Homme,M1-5H,39,0 days 02:17:03,0 days 02:51:26,0 days 03:44:15,0 days 03:46:53,0 days 01:48:16,5.6,solo,13613,6496
+158,2144,FRA,SÉGUREL Aurélie,,Femme,M1-5F,8,0 days 02:17:53,0 days 02:48:54,0 days 03:44:04,0 days 03:46:56,0 days 01:48:19,5.6,solo,13616,6499
+159,2039,FRA,PREKEL Carole,,Femme,M1-5F,9,0 days 02:18:05,0 days 02:52:52,0 days 03:45:23,0 days 03:48:01,0 days 01:49:24,5.5,solo,13681,6564
+160,2179,FRA,MORETTI Lorene,,Femme,S-M0F,35,0 days 02:25:17,0 days 02:54:02,0 days 03:45:51,0 days 03:48:30,0 days 01:49:53,5.5,solo,13710,6593
+161,2018,FRA,DEGRANGE Pierre,,Homme,M1-5H,40,0 days 02:22:02,0 days 02:52:17,0 days 03:47:04,0 days 03:49:44,0 days 01:51:07,5.5,solo,13784,6667
+162,2154,FRA,HONORÉ David,,Homme,M1-5H,41,0 days 02:15:13,0 days 02:50:52,0 days 03:50:40,0 days 03:52:49,0 days 01:54:12,5.4,solo,13969,6852
+163,2265,FRA,MOURIER Nadine,TRAILERS DU MÔLE,Femme,M1-5F,10,0 days 02:26:41,0 days 02:59:35,0 days 03:51:55,0 days 03:54:31,0 days 01:55:54,5.4,solo,14071,6954
+164,2206,FRA,VELLUZ Gary,,Homme,S-M0H,73,0 days 02:17:10,0 days 02:53:19,0 days 03:52:18,0 days 03:55:08,0 days 01:56:31,5.4,solo,14108,6991
+165,2259,FRA,STOUPY Fabrice,TRAILEUR DU SALEVE,Homme,M1-5H,42,0 days 02:18:04,0 days 02:50:45,0 days 03:52:32,0 days 03:55:11,0 days 01:56:34,5.4,solo,14111,6994
+166,2026,FRA,JACQUIER PINQUIER Grégory,SALÈVE TRAIL,Homme,M1-5H,43,0 days 02:18:10,0 days 02:51:06,0 days 03:52:31,0 days 03:55:12,0 days 01:56:35,5.4,solo,14112,6995
+167,2097,FRA,FOULC Amélie,,Femme,S-M0F,36,0 days 02:18:33,0 days 02:53:09,0 days 03:52:53,0 days 03:55:29,0 days 01:56:52,5.4,solo,14129,7012
+168,2189,FRA,VELON Fabrice,,Homme,M1-5H,44,0 days 02:31:22,0 days 02:59:57,0 days 03:53:11,0 days 03:56:01,0 days 01:57:24,5.3,solo,14161,7044
+169,2016,FRA,PERRET Virginie,,Femme,M1-5F,11,0 days 02:26:31,0 days 02:59:08,0 days 03:53:48,0 days 03:56:27,0 days 01:57:50,5.3,solo,14187,7070
+170,2173,FRA,PREVOST Estelle,,Femme,S-M0F,37,0 days 02:26:21,0 days 02:55:37,0 days 03:54:01,0 days 03:56:52,0 days 01:58:15,5.3,solo,14212,7095
+171,2252,FRA,JAVOUHEY Anne,ASVEL,Femme,M1-5F,12,0 days 02:14:26,0 days 02:52:53,0 days 03:54:44,0 days 03:57:11,0 days 01:58:34,5.3,solo,14231,7114
+172,2078,FRA,ODDOS-MARCEL Lionel,ATHLETIC BRUNOY CLUB,Homme,M1-5H,45,0 days 02:26:10,0 days 02:56:56,0 days 03:54:52,0 days 03:57:17,0 days 01:58:40,5.3,solo,14237,7120
+173,2011,FRA,EGG Clémence,,Femme,S-M0F,38,0 days 02:20:45,0 days 02:53:45,0 days 03:54:47,0 days 03:57:50,0 days 01:59:13,5.3,solo,14270,7153
+174,2057,FRA,LUTZKANOFF Rodolphe,SALÈVE TRAIL,Homme,M1-5H,46,0 days 02:26:38,0 days 02:57:31,0 days 03:55:19,0 days 03:58:17,0 days 01:59:40,5.3,solo,14297,7180
+175,2207,FRA,SIMOES Wilfried,,Homme,M1-5H,47,0 days 02:23:25,0 days 02:56:32,0 days 03:56:50,0 days 03:59:39,0 days 02:01:02,5.3,solo,14379,7262
+176,2132,FRA,LIENHART Audrey,,Femme,S-M0F,39,0 days 02:30:39,0 days 03:01:17,0 days 03:57:29,0 days 04:00:02,0 days 02:01:25,5.2,solo,14402,7285
+177,2126,FRA,PERRISSIN FABERT Sabrina,,Femme,M1-5F,13,0 days 02:23:18,0 days 02:56:28,0 days 03:57:31,0 days 04:00:03,0 days 02:01:26,5.2,solo,14403,7286
+178,2037,FRA,MARTEAU Pauline,,Femme,M1-5F,14,0 days 02:18:21,0 days 02:48:50,0 days 03:57:57,0 days 04:00:32,0 days 02:01:55,5.2,solo,14432,7315
+179,2262,FRA,QUOEX Simon,,Homme,S-M0H,74,0 days 02:32:51,0 days 03:00:01,0 days 03:57:51,0 days 04:00:35,0 days 02:01:58,5.2,solo,14435,7318
+180,2290,FRA,DOE Jules,,Homme,JEUH,3,0 days 02:32:51,0 days 03:02:48,0 days 03:57:50,0 days 04:00:40,0 days 02:02:03,5.2,solo,14440,7323
+181,2030,FRA,FABRIS Daniel,,Homme,M6+H,1,0 days 02:30:28,0 days 03:05:56,0 days 03:57:59,0 days 04:00:44,0 days 02:02:07,5.2,solo,14444,7327
+182,2047,FRA,C. B.,,Homme,S-M0H,75,0 days 02:30:43,0 days 02:59:45,0 days 03:57:59,0 days 04:01:17,0 days 02:02:40,5.2,solo,14477,7360
+183,2128,FRA,ROCK Mickaël,,Homme,S-M0H,76,0 days 02:25:30,0 days 02:56:21,0 days 03:58:46,0 days 04:01:29,0 days 02:02:52,5.2,solo,14489,7372
+184,2091,FRA,STEPNIEWSKI Amélie,,Femme,S-M0F,40,0 days 02:34:46,0 days 03:04:21,0 days 03:59:43,0 days 04:02:11,0 days 02:03:34,5.2,solo,14531,7414
+185,2208,FRA,CURRIT Maxence,,Homme,M1-5H,48,0 days 02:23:31,0 days 02:57:19,0 days 03:59:43,0 days 04:02:18,0 days 02:03:41,5.2,solo,14538,7421
+186,2157,FRA,MOREAU Amandine,OFF TRACK,Femme,S-M0F,41,0 days 02:21:09,0 days 02:54:42,0 days 04:00:40,0 days 04:02:58,0 days 02:04:21,5.2,solo,14578,7461
+187,2272,FRA,G. C.,,Femme,S-M0F,42,0 days 02:26:39,0 days 03:03:32,0 days 04:01:05,0 days 04:04:05,0 days 02:05:28,5.2,solo,14645,7528
+188,2111,FRA,MACE Christian,,Homme,M6+H,2,0 days 02:33:50,0 days 03:06:05,0 days 04:01:49,0 days 04:04:58,0 days 02:06:21,5.1,solo,14698,7581
+189,2031,FRA,PICORIT Johan,ISLE ATHLÉ,Homme,S-M0H,77,0 days 02:28:48,0 days 03:02:39,0 days 04:04:01,0 days 04:06:30,0 days 02:07:53,5.1,solo,14790,7673
+190,2025,FRA,MAZIERE Laura,,Femme,S-M0F,43,0 days 02:29:07,0 days 03:03:03,0 days 04:04:02,0 days 04:06:31,0 days 02:07:54,5.1,solo,14791,7674
+191,2202,FRA,LEDRICH Nelly,COURIR PAR NATURE,Femme,M1-5F,15,0 days 02:35:04,0 days 03:09:31,0 days 04:04:11,0 days 04:07:00,0 days 02:08:23,5.1,solo,14820,7703
+192,2145,FRA,DRISS Salah-eddine,,Homme,S-M0H,78,0 days 02:34:25,0 days 03:02:34,0 days 04:06:29,0 days 04:08:59,0 days 02:10:22,5.1,solo,14939,7822
+193,2142,FRA,MANIGLIER Victor,,Homme,M1-5H,49,0 days 02:34:33,0 days 03:03:14,0 days 04:06:20,0 days 04:09:09,0 days 02:10:32,5.1,solo,14949,7832
+194,2054,FRA,CHAUVEAU David,,Homme,S-M0H,79,0 days 02:39:10,0 days 03:09:12,0 days 04:07:38,0 days 04:10:32,0 days 02:11:55,5.0,solo,15032,7915
+195,2234,FRA,BOURREAU Benoit,,Homme,S-M0H,80,0 days 02:33:54,0 days 03:04:06,0 days 04:07:58,0 days 04:10:43,0 days 02:12:06,5.0,solo,15043,7926
+196,2048,ESP,GONZALO Jose,AVOC,Homme,M1-5H,50,0 days 02:18:48,0 days 02:57:29,0 days 04:10:58,0 days 04:13:38,0 days 02:15:01,5.0,solo,15218,8101
+197,2113,FRA,CHODKIEWIEZ Sabine,,Femme,M1-5F,16,0 days 02:50:13,0 days 03:22:13,0 days 04:12:33,0 days 04:15:03,0 days 02:16:26,4.9,solo,15303,8186
+198,2090,FRA,ROGUET Lea,,Femme,S-M0F,44,0 days 02:36:11,0 days 03:08:28,0 days 04:13:47,0 days 04:16:33,0 days 02:17:56,4.9,solo,15393,8276
+199,2235,FRA,SECOUET Delphine,,Femme,S-M0F,45,0 days 02:37:32,0 days 03:12:26,0 days 04:14:02,0 days 04:16:58,0 days 02:18:21,4.9,solo,15418,8301
+200,2212,FRA,VUCIC David,,Homme,S-M0H,81,0 days 02:23:23,,0 days 04:15:47,0 days 04:18:49,0 days 02:20:12,4.9,solo,15529,8412
+201,2012,FRA,PRÉVITALI Laura,,Femme,S-M0F,46,,0 days 03:18:00,0 days 04:16:39,0 days 04:19:18,0 days 02:20:41,4.9,solo,15558,8441
+202,2225,FRA,FRANÇOIS Marine,,Femme,S-M0F,47,0 days 02:37:06,0 days 03:12:05,0 days 04:18:38,0 days 04:21:15,0 days 02:22:38,4.8,solo,15675,8558
+203,2148,FRA,GATTUSO Annabelle,CPN,Femme,M1-5F,17,0 days 02:50:29,0 days 03:24:51,0 days 04:21:51,0 days 04:24:51,0 days 02:26:14,4.8,solo,15891,8774
+204,2221,FRA,PERRIN Gregory,ABS SAINT GALMIER,Homme,S-M0H,82,0 days 02:41:24,0 days 03:12:32,0 days 04:24:00,0 days 04:26:33,0 days 02:27:56,4.7,solo,15993,8876
+205,2070,FRA,DUCROS Matthieu,,Homme,S-M0H,83,0 days 02:41:24,0 days 03:15:43,0 days 04:23:59,0 days 04:26:35,0 days 02:27:58,4.7,solo,15995,8878
+206,2067,FRA,BERGER Olivier,,Homme,M1-5H,51,0 days 02:39:17,0 days 03:20:12,0 days 04:28:26,0 days 04:31:26,0 days 02:32:49,4.6,solo,16286,9169
+207,2087,FRA,GOUDENOVE Juliette,,Femme,S-M0F,48,0 days 02:38:21,0 days 03:13:07,0 days 04:28:40,0 days 04:31:38,0 days 02:33:01,4.6,solo,16298,9181
+208,2093,FRA,DA PAULA Anaïs,,Femme,S-M0F,49,0 days 02:37:01,0 days 03:12:57,0 days 04:28:43,0 days 04:31:39,0 days 02:33:02,4.6,solo,16299,9182
+209,2075,FRA,AVRILLON Margaux,,Femme,S-M0F,50,0 days 02:37:54,0 days 03:13:08,0 days 04:28:44,0 days 04:31:39,0 days 02:33:02,4.6,solo,16299,9182
+210,2024,FRA,SEGUY Nha Hien,SALÈVE TRAIL,Homme,M1-5H,52,0 days 02:34:22,0 days 03:13:04,0 days 04:29:25,0 days 04:32:09,0 days 02:33:32,4.6,solo,16329,9212
+211,2001,FRA,BIGOTTE Elise,,Femme,S-M0F,51,0 days 02:54:55,0 days 03:28:35,0 days 04:29:51,0 days 04:32:52,0 days 02:34:15,4.6,solo,16372,9255
+212,2112,FRA,AUDUBERT Eric,,Homme,M1-5H,53,0 days 02:35:06,0 days 03:14:57,0 days 04:31:26,0 days 04:34:09,0 days 02:35:32,4.6,solo,16449,9332
+213,2209,FRA,H. S.,,Homme,M1-5H,54,0 days 02:36:58,0 days 03:18:30,0 days 04:31:48,0 days 04:34:56,0 days 02:36:19,4.6,solo,16496,9379
+214,2203,FRA,GRANGERAT Dorine,,Femme,M1-5F,18,0 days 02:37:05,0 days 03:18:51,0 days 04:31:48,0 days 04:34:56,0 days 02:36:19,4.6,solo,16496,9379
+215,2182,FRA,BELKANE Sebastien,,Homme,M1-5H,55,0 days 02:43:07,0 days 03:22:06,0 days 04:32:47,0 days 04:35:43,0 days 02:37:06,4.6,solo,16543,9426
+216,2044,FRA,DELANNOY Melanie,,Femme,M1-5F,19,0 days 02:47:54,0 days 03:26:11,0 days 04:34:27,0 days 04:37:53,0 days 02:39:16,4.5,solo,16673,9556
+217,2211,FRA,CHAMBERT Céline,,Femme,JEUF,3,0 days 02:56:32,0 days 03:29:53,0 days 04:37:32,0 days 04:40:08,0 days 02:41:31,4.5,solo,16808,9691
+218,2076,FRA,FORGET Milene,SODERN,Femme,M1-5F,20,0 days 02:51:58,0 days 03:31:31,0 days 04:43:23,0 days 04:46:32,0 days 02:47:55,4.4,solo,17192,10075
+219,2034,FRA,CAMPAGNE Aurélie,,Femme,M1-5F,21,0 days 02:57:46,0 days 03:35:11,0 days 04:43:12,0 days 04:46:37,0 days 02:48:00,4.4,solo,17197,10080
+220,2007,FRA,LACHAYZE Ophélie,DÉFI RAID AVENTURE,Femme,M1-5F,22,0 days 02:44:56,0 days 03:28:02,0 days 04:49:24,0 days 04:52:22,0 days 02:53:45,4.3,solo,17542,10425
+221,2006,FRA,ROUYER Jérôme,DÉFI RAID AVENTURE,Homme,M1-5H,56,0 days 02:45:32,0 days 03:27:42,0 days 04:49:24,0 days 04:52:22,0 days 02:53:45,4.3,solo,17542,10425
+222,2002,FRA,PIRONNET Vincent,DÉFI RAID AVENTURE,Homme,M1-5H,57,0 days 02:45:09,0 days 03:28:00,0 days 04:49:23,0 days 04:52:23,0 days 02:53:46,4.3,solo,17543,10426
+1,2626,FRA,LOBRY Josué / VESSE Maxime,ANNECY ATHLÉTISME,Homme,HOM,1,0 days 01:26:19,0 days 01:41:55,0 days 02:11:00,0 days 02:12:53,,9.5,duo,7973,
+2,2631,FRA,CURT Nicola / LOURENCO Aurélien,AIN SPORT AIN OBJECTIF,Homme,HOM,2,0 days 01:27:08,0 days 01:43:10,0 days 02:14:06,0 days 02:16:00,0 days 00:03:07,9.3,duo,8160,187
+3,2506,FRA,PERNET-MUGNIER Romain / POCHAT Manu,,Homme,HOM,3,0 days 01:31:41,0 days 01:47:27,0 days 02:20:30,0 days 02:22:33,0 days 00:09:40,8.8,duo,8553,580
+4,2574,FRA,FOURNET Fabien / SANTILLI Laurent,COURIR À POISY,Homme,HOM,4,0 days 01:35:49,0 days 02:02:15,0 days 02:28:29,0 days 02:30:30,0 days 00:17:37,8.4,duo,9030,1057
+5,2608,FRA,ANDRÉOLI Yoann / CONVERS Cédric,,Homme,HOM,5,0 days 01:35:45,0 days 01:54:46,0 days 02:29:55,0 days 02:32:01,0 days 00:19:08,8.3,duo,9121,1148
+6,2629,FRA,NOYEZ Laurène / GENTIL Gwendal,COURIR À POISY,Mixte,MX,1,0 days 01:44:19,0 days 02:03:06,0 days 02:38:01,0 days 02:40:08,0 days 00:27:15,7.9,duo,9608,1635
+7,2612,FRA,DEMOLIS Julien / SUSCILLON Vincent,,Homme,HOM,6,0 days 01:42:29,0 days 02:02:37,0 days 02:38:08,0 days 02:40:15,0 days 00:27:22,7.9,duo,9615,1642
+8,2550,FRA,DE SOUSA Julien / CALCINA Antoine,,Homme,HOM,7,0 days 01:47:28,0 days 02:06:54,0 days 02:41:11,0 days 02:43:11,0 days 00:30:18,7.7,duo,9791,1818
+9,2591,FRA,BOBILLIER Mathias / DAUBEUF Margot,,Mixte,MX,2,0 days 01:46:09,0 days 02:05:08,0 days 02:42:14,0 days 02:44:26,0 days 00:31:33,7.7,duo,9866,1893
+10,2551,FRA,PANISSET Louis / GUILLEMAIN Tom,,Homme,HOM,8,0 days 01:48:22,0 days 02:06:37,0 days 02:44:47,0 days 02:46:43,0 days 00:33:50,7.6,duo,10003,2030
+11,2615,FRA,MONTAGNON Quentin / DEMAISON Anthony,SANGLIER FC,Homme,HOM,9,0 days 01:48:53,0 days 02:08:50,0 days 02:48:24,0 days 02:50:44,0 days 00:37:51,7.4,duo,10244,2271
+12,2584,FRA,FIORESE Bruno / VINCENT Pédram,,Homme,HOM,10,0 days 01:50:50,0 days 02:12:50,0 days 02:55:08,0 days 02:57:30,0 days 00:44:37,7.1,duo,10650,2677
+13,2582,FRA,GRUBER Mickael / SCHOUMANN Claire,SO TRAIL ANNECY,Mixte,MX,3,0 days 01:49:11,0 days 02:13:00,0 days 02:55:49,0 days 02:58:03,0 days 00:45:10,7.1,duo,10683,2710
+14,2545,FRA,DALLA VALLE Thomas / KUBLER Sylvain,,Homme,HOM,11,0 days 01:49:06,0 days 02:10:16,0 days 02:55:22,0 days 02:58:04,0 days 00:45:11,7.1,duo,10684,2711
+15,2558,FRA,JIGUET Marc / MAILLET Loic,,Homme,HOM,12,0 days 01:51:23,0 days 02:13:33,0 days 02:56:16,0 days 02:58:56,0 days 00:46:03,7.0,duo,10736,2763
+16,2541,FRA,TIVAN Josselin / HUGUEL Méganne,,Mixte,MX,4,0 days 01:51:26,0 days 02:15:54,0 days 02:58:47,0 days 03:01:01,0 days 00:48:08,7.0,duo,10861,2888
+17,2601,FRA,LASSUEUR Pierre / CROS Maxime,,Homme,HOM,13,0 days 01:50:10,0 days 02:11:44,0 days 02:59:05,0 days 03:01:26,0 days 00:48:33,6.9,duo,10886,2913
+18,2510,FRA,DECAMP Axel / BOBILLON Alexandre,,Homme,HOM,14,0 days 01:53:32,0 days 02:16:07,0 days 02:59:18,0 days 03:01:57,0 days 00:49:04,6.9,duo,10917,2944
+19,2617,FRA,PEILLEX-DELPHES David / ALVES Thomas,,Homme,HOM,15,0 days 01:55:08,0 days 02:15:18,0 days 03:00:36,0 days 03:02:54,0 days 00:50:01,6.9,duo,10974,3001
+20,2618,FRA,LOPES Philippe / SALLET Julien,,Homme,HOM,16,0 days 01:53:15,0 days 02:14:01,0 days 03:01:12,0 days 03:03:42,0 days 00:50:49,6.9,duo,11022,3049
+21,2613,FRA,DUPENLOUP Theo / MANDEREAU Clément,,Homme,HOM,17,0 days 01:50:11,0 days 02:14:10,0 days 03:01:40,0 days 03:03:54,0 days 00:51:01,6.9,duo,11034,3061
+22,2566,FRA,JEAN-LOUIS Sylvain / GIROUD Audrey,,Mixte,MX,5,0 days 01:55:32,0 days 02:19:39,0 days 03:02:14,0 days 03:04:27,0 days 00:51:34,6.8,duo,11067,3094
+23,2598,FRA,BIENVENU Julien / REY Hugo,,Homme,HOM,18,0 days 01:57:08,0 days 02:20:30,0 days 03:03:09,0 days 03:05:41,0 days 00:52:48,6.8,duo,11141,3168
+24,2587,FRA,ZANOLLA Marion / MASCIAVE Virginie,,Femme,FEM,1,0 days 02:09:54,0 days 02:33:50,0 days 03:15:05,0 days 03:17:20,0 days 01:04:27,6.4,duo,11840,3867
+25,2531,FRA,BAYEUX Emile / FERNANDEZ Jessica,,Mixte,MX,6,0 days 02:00:01,0 days 02:26:58,0 days 03:16:59,0 days 03:19:30,0 days 01:06:37,6.3,duo,11970,3997
+26,2508,FRA,CELLIER Jessica / SAIRE Gauthier,SALÈVE TRAIL,Mixte,MX,7,0 days 02:06:22,0 days 02:30:44,0 days 03:18:43,0 days 03:20:36,0 days 01:07:43,6.3,duo,12036,4063
+27,2535,FRA,PELTIER Yohann / CHAPIRON Jules,COURIR À POISY,Homme,HOM,19,0 days 02:03:07,0 days 02:26:23,0 days 03:18:01,0 days 03:20:51,0 days 01:07:58,6.3,duo,12051,4078
+28,2622,SUI,ROUX Marin / VALLON DITTMAR Françoise,AIN-EST-ATHLETISME,Mixte,MX,8,0 days 02:04:17,0 days 02:32:35,0 days 03:18:11,0 days 03:21:01,0 days 01:08:08,6.3,duo,12061,4088
+29,2576,FRA,DUCASTEL Candice / VUILLET Clémence,,Femme,FEM,2,0 days 02:04:07,0 days 02:31:58,0 days 03:18:54,0 days 03:21:14,0 days 01:08:21,6.3,duo,12074,4101
+30,2581,FRA,KIM Emmanuel / OLEN Yann,,Homme,HOM,20,0 days 02:04:30,0 days 02:30:05,0 days 03:19:06,0 days 03:21:58,0 days 01:09:05,6.2,duo,12118,4145
+31,2564,FRA,DELOHEN Quentin / BROCCHETTO Fabian,,Homme,HOM,21,0 days 02:11:26,0 days 02:34:00,0 days 03:21:41,0 days 03:24:20,0 days 01:11:27,6.2,duo,12260,4287
+32,2619,FRA,CAUPERT Juliette / LE NET Laurine,,Femme,FEM,3,0 days 02:05:41,0 days 02:33:11,0 days 03:23:24,0 days 03:25:47,0 days 01:12:54,6.1,duo,12347,4374
+33,2594,FRA,CAMP Meline / CHEDAL ANGLAY Sarah,,Femme,FEM,4,0 days 02:03:08,0 days 02:32:39,0 days 03:23:14,0 days 03:25:54,0 days 01:13:01,6.1,duo,12354,4381
+34,2537,FRA,PERILLAT MERCEROZ Anthony / TARDY Amélie,,Mixte,MX,9,0 days 02:13:38,0 days 02:38:47,0 days 03:23:57,0 days 03:26:22,0 days 01:13:29,6.1,duo,12382,4409
+35,2632,FRA,DORIO Jérôme / FORGET Véronique,AIN SPORT AIN OBJECTIF,Mixte,MX,10,0 days 01:58:40,0 days 02:30:43,0 days 03:24:04,0 days 03:26:36,0 days 01:13:43,6.1,duo,12396,4423
+36,2557,FRA,SMEYERS Loriane / CROZET Perrine,,Femme,FEM,5,0 days 02:07:51,0 days 02:34:26,0 days 03:24:52,0 days 03:27:30,0 days 01:14:37,6.1,duo,12450,4477
+37,2572,FRA,TOURNIER Marie / TOURNIER Eric,YAUTE CYCLISME,Mixte,MX,11,0 days 02:13:54,0 days 02:39:54,0 days 03:25:34,0 days 03:28:11,0 days 01:15:18,6.1,duo,12491,4518
+38,2523,FRA,THUAUD Antoine / DELODE Nicolas,,Homme,HOM,22,0 days 02:10:47,0 days 02:34:14,0 days 03:27:24,0 days 03:30:10,0 days 01:17:17,6.0,duo,12610,4637
+39,2602,FRA,MICHEL Sullivan / ROQUES Alexane,TEAM LA GRANGEAT,Mixte,MX,12,0 days 02:12:14,0 days 02:39:37,0 days 03:28:07,0 days 03:30:32,0 days 01:17:39,6.0,duo,12632,4659
+40,2514,FRA,RICHARD Jean-patrice / PERNOLLET Céline,,Mixte,MX,13,0 days 02:16:52,0 days 02:42:50,0 days 03:28:46,0 days 03:31:18,0 days 01:18:25,6.0,duo,12678,4705
+41,2614,FRA,GOTTELAND Jean-luc / GOTTELAND Margaux,,Mixte,MX,14,0 days 02:02:12,0 days 02:35:15,0 days 03:28:45,0 days 03:31:35,0 days 01:18:42,6.0,duo,12695,4722
+42,2552,FRA,LOPEZ Maxence / NAGEL Alizé,,Mixte,MX,15,0 days 02:11:29,0 days 02:40:04,0 days 03:30:07,0 days 03:32:36,0 days 01:19:43,5.9,duo,12756,4783
+43,2590,FRA,DUBOIS Josquin / CARRON Melanie,,Mixte,MX,16,0 days 02:05:09,0 days 02:33:40,0 days 03:31:09,0 days 03:33:26,0 days 01:20:33,5.9,duo,12806,4833
+44,2561,FRA,LEONARD Manon / FERRIER Celine,ASMSE,Femme,FEM,6,0 days 02:06:34,0 days 02:35:39,0 days 03:30:47,0 days 03:33:28,0 days 01:20:35,5.9,duo,12808,4835
+45,2563,FRA,TIVOLLE Marie / GUILLON Jérémy,,Mixte,MX,17,0 days 02:13:08,0 days 02:38:51,0 days 03:31:38,0 days 03:34:14,0 days 01:21:21,5.9,duo,12854,4881
+46,2597,FRA,JEANNELLE Johann / JEANNELLE Joris,,Homme,HOM,23,0 days 02:16:26,0 days 02:46:56,0 days 03:32:43,0 days 03:35:05,0 days 01:22:12,5.9,duo,12905,4932
+47,2539,SUI,LASSUEUR Valérie / RONGA Romeo,,Mixte,MX,18,0 days 02:21:07,0 days 02:46:24,0 days 03:32:42,0 days 03:35:25,0 days 01:22:32,5.8,duo,12925,4952
+48,2603,FRA,LUPIN Mégane / LUPIN Bruno,,Mixte,MX,19,0 days 02:12:03,0 days 02:40:44,0 days 03:33:01,0 days 03:35:46,0 days 01:22:53,5.8,duo,12946,4973
+49,2554,FRA,PICHONNIER Clément / RIOU Mathieu,,Homme,HOM,24,0 days 02:08:03,0 days 02:38:18,0 days 03:35:15,0 days 03:37:42,0 days 01:24:49,5.8,duo,13062,5089
+50,2592,FRA,LATHUILLE Margaux / PELLEGRINELLI Adrien,,Mixte,MX,20,0 days 02:08:15,0 days 02:37:41,0 days 03:35:48,0 days 03:38:28,0 days 01:25:35,5.8,duo,13108,5135
+51,2549,FRA,VAZ Fanny / JACQUOT Nicolas,,Mixte,MX,21,0 days 02:15:58,0 days 02:43:40,0 days 03:36:05,0 days 03:38:41,0 days 01:25:48,5.8,duo,13121,5148
+52,2609,POL,BECOUZE Marion / RIEGEL Monika,,Femme,FEM,7,0 days 02:07:47,0 days 02:40:13,0 days 03:38:19,0 days 03:40:46,0 days 01:27:53,5.7,duo,13246,5273
+53,2611,FRA,H. M. /. H. S.,,Mixte,MX,22,0 days 02:15:12,0 days 02:47:44,0 days 03:38:31,0 days 03:40:50,0 days 01:27:57,5.7,duo,13250,5277
+54,2536,FRA,OBEA Dorian / GUIMARD Sophie,,Mixte,MX,23,0 days 02:17:18,0 days 02:47:24,0 days 03:38:43,0 days 03:41:19,0 days 01:28:26,5.7,duo,13279,5306
+55,2511,FRA,MAJRI Tarek / DUPONT Marion,,Mixte,MX,24,0 days 02:20:09,0 days 02:47:15,0 days 03:40:07,0 days 03:42:23,0 days 01:29:30,5.7,duo,13343,5370
+56,2512,FRA,DEFRANOUX Romain / CHARBONNET Manon,,Mixte,MX,25,0 days 02:21:39,0 days 02:47:55,,0 days 03:43:03,0 days 01:30:10,5.6,duo,13383,5410
+57,2607,FRA,DELUERMOZ Anais / CARME Manon,TRAILERS DU MÔLE,Femme,FEM,8,0 days 02:22:23,0 days 02:51:10,0 days 03:40:55,0 days 03:43:34,0 days 01:30:41,5.6,duo,13414,5441
+58,2518,FRA,FERU Laura / BESSON Manon,,Femme,FEM,9,0 days 02:21:03,0 days 02:49:06,0 days 03:41:46,0 days 03:44:27,0 days 01:31:34,5.6,duo,13467,5494
+59,2555,FRA,LECOINTE Julia / BOUVIER Martin,,Mixte,MX,26,0 days 02:19:11,0 days 02:50:14,0 days 03:42:28,0 days 03:45:06,0 days 01:32:13,5.6,duo,13506,5533
+60,2556,FRA,DUNAND David / DUNAND Céline,,Mixte,MX,27,0 days 02:18:31,0 days 02:49:04,0 days 03:42:18,0 days 03:45:11,0 days 01:32:18,5.6,duo,13511,5538
+61,2540,FRA,JUAREZ Fabien / JUAREZ Christine,,Mixte,MX,28,0 days 02:25:14,0 days 02:53:07,0 days 03:44:12,0 days 03:47:11,0 days 01:34:18,5.5,duo,13631,5658
+62,2633,FRA,SUATON Thierry / GRANGE Benoit,,Mixte,MX,29,0 days 02:24:38,0 days 02:51:31,0 days 03:43:41,0 days 03:47:22,0 days 01:34:29,5.5,duo,13642,5669
+63,2623,FRA,KHAITRINE Salome / GUILLOT Justine,,Femme,FEM,10,0 days 02:18:26,0 days 02:47:24,0 days 03:44:53,0 days 03:47:49,0 days 01:34:56,5.5,duo,13669,5696
+64,2544,FRA,SOTO Yann / SOTO Vanessa,,Mixte,MX,30,0 days 02:26:28,0 days 02:55:14,0 days 03:45:23,0 days 03:48:05,0 days 01:35:12,5.5,duo,13685,5712
+65,2517,FRA,GOSSELIN Isabelle / ENCRENAZ Baptiste,,Mixte,MX,31,0 days 02:21:23,0 days 02:52:31,0 days 03:46:00,0 days 03:48:20,0 days 01:35:27,5.5,duo,13700,5727
+66,2543,FRA,PALLEGOIX BONNET Marjorie / BAILLIF Lucie,,Femme,FEM,11,0 days 02:22:18,0 days 02:51:45,0 days 03:45:56,0 days 03:48:22,0 days 01:35:29,5.5,duo,13702,5729
+67,2616,FRA,CUISET Juliette / ROUVIERE Juliette,,Femme,FEM,12,0 days 02:26:47,0 days 02:56:26,0 days 03:45:55,0 days 03:48:27,0 days 01:35:34,5.5,duo,13707,5734
+68,2519,FRA,CHEVALEYRE Christelle / TEISSEDRE Éloïse,,Femme,FEM,13,0 days 02:22:16,0 days 02:52:22,0 days 03:45:59,0 days 03:48:35,0 days 01:35:42,5.5,duo,13715,5742
+69,2595,FRA,FRESNAY Cyril / MOLLO Daniel,,Homme,HOM,25,0 days 02:16:33,0 days 02:45:08,0 days 03:46:24,0 days 03:48:57,0 days 01:36:04,5.5,duo,13737,5764
+70,2559,FRA,SALERES Juliette / VIAL Manon,CIRCLE,Femme,FEM,14,0 days 02:22:14,0 days 02:50:04,0 days 03:46:27,0 days 03:49:06,0 days 01:36:13,5.5,duo,13746,5773
+71,2625,FRA,MERCIER Florian / DESTIZONS Elorri,,Mixte,MX,32,0 days 02:26:10,0 days 02:56:03,0 days 03:48:29,0 days 03:51:05,0 days 01:38:12,5.5,duo,13865,5892
+72,2505,FRA,HENRY Elie / HENRY Inès,,Mixte,MX,33,0 days 02:25:32,0 days 02:54:37,0 days 03:50:27,0 days 03:53:04,0 days 01:40:11,5.4,duo,13984,6011
+73,2527,FRA,VACHOUX Amandine / BODIÉ Brice,,Mixte,MX,34,0 days 02:14:46,0 days 02:46:13,0 days 03:51:32,0 days 03:54:17,0 days 01:41:24,5.4,duo,14057,6084
+74,2562,FRA,BERU Marion / AUTIE Céline,,Femme,FEM,15,0 days 02:26:18,0 days 02:57:35,0 days 03:51:45,0 days 03:54:40,0 days 01:41:47,5.4,duo,14080,6107
+75,2599,FRA,SCHWIENBACHER Judith / COURTIN Guilenn,,Femme,FEM,16,0 days 02:25:45,0 days 02:56:01,0 days 03:52:38,0 days 03:55:20,0 days 01:42:27,5.4,duo,14120,6147
+76,2583,FRA,LANTEAUME Edith / JEANDET Anthony,,Mixte,MX,35,0 days 02:34:25,0 days 03:01:07,0 days 03:55:46,0 days 03:58:13,0 days 01:45:20,5.3,duo,14293,6320
+77,2529,FRA,JOUANNY Lucas / ROCHEL Lisa,,Mixte,MX,36,0 days 02:20:42,0 days 02:59:52,0 days 03:56:01,0 days 03:58:58,0 days 01:46:05,5.3,duo,14338,6365
+78,2620,FRA,BIANCHI Sébastien / DELCULEE Laetitia,,Mixte,MX,37,0 days 02:25:12,0 days 02:57:33,0 days 03:56:41,0 days 03:59:15,0 days 01:46:22,5.3,duo,14355,6382
+79,2586,FRA,LAGET Mathieu / CLAVEL Fabrice,,Homme,HOM,26,0 days 02:18:41,0 days 02:50:13,,0 days 03:59:37,0 days 01:46:44,5.3,duo,14377,6404
+80,2534,FRA,LEGRAND Sophie / DEBOURGES Amandine,,Femme,FEM,17,0 days 02:25:25,0 days 02:55:44,0 days 03:57:23,0 days 04:00:02,0 days 01:47:09,5.2,duo,14402,6429
+81,2621,FRA,BONVALOT Laetitia / REYNAUD Mélanie,AIX SAVOIE TRIATHLON,Femme,FEM,18,0 days 02:14:06,0 days 02:46:11,0 days 03:58:20,0 days 04:00:36,0 days 01:47:43,5.2,duo,14436,6463
+82,2504,FRA,MOUZON Aude / MATHIEU Anne - Sophie,SALÈVE TRAIL,Femme,FEM,19,0 days 02:13:52,0 days 02:54:38,0 days 04:00:03,0 days 04:02:38,0 days 01:49:45,5.2,duo,14558,6585
+83,2547,FRA,JANNOT Martin / ROGNARD Marion,,Mixte,MX,38,0 days 02:26:48,0 days 03:03:34,0 days 04:01:06,0 days 04:04:05,0 days 01:51:12,5.2,duo,14645,6672
+84,2630,FRA,SANTERRE Nadège / ROUDIER Céline,SILL’N’RUN,Femme,FEM,20,0 days 02:31:41,0 days 03:04:39,0 days 04:02:24,0 days 04:05:16,0 days 01:52:23,5.1,duo,14716,6743
+85,2593,FRA,BIBOLLET-RUCHE Marc / RAPHOZ Malorie,,Mixte,MX,39,0 days 02:27:13,0 days 03:02:11,0 days 04:03:35,0 days 04:06:17,0 days 01:53:24,5.1,duo,14777,6804
+86,2567,FRA,CASSET Adeline / AGUILAR Nicolas,,Mixte,MX,40,0 days 02:37:09,0 days 03:07:54,0 days 04:03:55,0 days 04:06:49,0 days 01:53:56,5.1,duo,14809,6836
+87,2548,FRA,LERIGET Katia / GRECH Marion,SALÈVE TRAIL,Femme,FEM,21,0 days 02:30:57,0 days 03:03:53,0 days 04:04:34,0 days 04:07:07,0 days 01:54:14,5.1,duo,14827,6854
+88,2596,FRA,BARRET Samantha / BARRET David,,Mixte,MX,41,0 days 02:30:22,0 days 03:03:31,0 days 04:04:08,0 days 04:07:14,0 days 01:54:21,5.1,duo,14834,6861
+89,2528,FRA,ROCHE Axel / DARCHES Sandra,,Mixte,MX,42,0 days 02:28:24,0 days 03:04:20,0 days 04:05:26,0 days 04:08:01,0 days 01:55:08,5.1,duo,14881,6908
+90,2585,FRA,BIROS Camille / BOUTROLLE Victor,,Mixte,MX,43,0 days 02:26:26,0 days 02:59:06,0 days 04:05:33,0 days 04:08:17,0 days 01:55:24,5.1,duo,14897,6924
+91,2520,FRA,GINOLA Emilie / TRIPIER Julie,COURIR À POISY,Femme,FEM,22,0 days 02:30:26,0 days 03:04:00,0 days 04:05:28,0 days 04:08:19,0 days 01:55:26,5.1,duo,14899,6926
+92,2624,FRA,SERAIN Nicolas / JOMARD Stéphanie,,Mixte,MX,44,0 days 02:34:42,0 days 03:08:21,0 days 04:06:10,0 days 04:08:41,0 days 01:55:48,5.1,duo,14921,6948
+93,2610,FRA,BRANCHE Armelle / SALAUN Pierrick,,Mixte,MX,45,0 days 02:28:02,0 days 03:06:26,0 days 04:06:41,0 days 04:09:32,0 days 01:56:39,5.0,duo,14972,6999
+94,2604,FRA,REMBAUD Stephane / REMBAUD Melanie,,Mixte,MX,46,0 days 02:31:03,0 days 03:04:38,0 days 04:06:56,0 days 04:09:56,0 days 01:57:03,5.0,duo,14996,7023
+95,2502,FRA,ISARD Laure / LACROIX Anne,,Femme,FEM,23,0 days 02:39:50,0 days 03:12:47,0 days 04:07:29,0 days 04:10:12,0 days 01:57:19,5.0,duo,15012,7039
+96,2634,FRA,L. M. /. B. L.,,Mixte,MX,47,0 days 02:26:53,0 days 03:03:03,0 days 04:07:59,0 days 04:10:40,0 days 01:57:47,5.0,duo,15040,7067
+97,2501,FRA,PHILIPPE BORIBOUN Aurélie / ALLIZARD Franck,,Mixte,MX,48,0 days 02:25:35,0 days 03:02:21,0 days 04:10:09,0 days 04:12:38,0 days 01:59:45,5.0,duo,15158,7185
+98,2521,FRA,FAVRE Xavier / FAVRE Céline,,Mixte,MX,49,0 days 02:30:09,0 days 03:07:33,0 days 04:10:33,0 days 04:13:25,0 days 02:00:32,5.0,duo,15205,7232
+99,2525,FRA,BREBANT Jean Marc / LEBRETON Yves,,Homme,HOM,27,0 days 02:30:07,0 days 03:12:26,0 days 04:11:45,0 days 04:14:26,0 days 02:01:33,5.0,duo,15266,7293
+100,2589,FRA,QUINQUIS Marine / DA COSTA Laura,,Femme,FEM,24,0 days 02:39:41,0 days 03:11:59,0 days 04:11:54,0 days 04:14:30,0 days 02:01:37,5.0,duo,15270,7297
+101,2524,BRA,TAVERNIER Charline / COELHO DE MARIA Laura,ANNECY ATHLÉTISME,Femme,FEM,25,0 days 02:21:41,0 days 02:58:59,0 days 04:12:24,0 days 04:15:17,0 days 02:02:24,4.9,duo,15317,7344
+102,2507,FRA,CALEIRO Lætitia / THEOPHILE Laurent,,Mixte,MX,50,0 days 02:39:37,0 days 03:09:36,0 days 04:12:10,0 days 04:15:24,0 days 02:02:31,4.9,duo,15324,7351
+103,2580,FRA,RAVETTA Judith / RAVETTA Antoine,,Mixte,MX,51,0 days 02:34:17,0 days 03:06:20,0 days 04:13:17,0 days 04:16:21,0 days 02:03:28,4.9,duo,15381,7408
+104,2575,FRA,G. E. /. H. J.,,Mixte,MX,52,0 days 02:34:58,0 days 03:11:21,0 days 04:14:34,0 days 04:17:12,0 days 02:04:19,4.9,duo,15432,7459
+105,2570,GBR,OBOZIAN Nelly / WINDER Caroline,,Femme,FEM,26,0 days 02:42:33,0 days 03:14:48,0 days 04:15:03,0 days 04:18:08,0 days 02:05:15,4.9,duo,15488,7515
+106,2533,FRA,KIRSCHENBILDER Romain / ROUCHON Grégory,,Homme,HOM,28,0 days 02:34:49,0 days 03:07:39,0 days 04:18:01,0 days 04:21:10,0 days 02:08:17,4.8,duo,15670,7697
+107,2606,FRA,CHIES Sandra / PERAL Maria,,Femme,FEM,27,0 days 02:36:45,0 days 03:13:22,0 days 04:21:05,0 days 04:24:11,0 days 02:11:18,4.8,duo,15851,7878
+108,2538,FRA,UNAL Agnès / LE ROUX Jacques,,Mixte,MX,53,0 days 02:36:09,0 days 03:12:36,0 days 04:21:55,0 days 04:24:51,0 days 02:11:58,4.8,duo,15891,7918
+109,2560,FRA,LOMBARDO Laura / GATEL Elise,,Femme,FEM,28,0 days 02:30:26,0 days 03:10:59,0 days 04:22:59,0 days 04:25:39,0 days 02:12:46,4.7,duo,15939,7966
+110,2509,FRA,CHABAS Coralie / CHABAS Olivier,,Mixte,MX,54,0 days 02:49:07,0 days 03:23:35,0 days 04:26:18,0 days 04:29:44,0 days 02:16:51,4.7,duo,16184,8211
+111,2627,FRA,BRUNEAU Gwënola / PINOT François,LA TRIANDINE,Mixte,MX,55,0 days 02:36:10,0 days 03:14:08,0 days 04:27:44,0 days 04:30:34,0 days 02:17:41,4.7,duo,16234,8261
+112,2571,FRA,GARCIA Sandrine / GARCIA Gregory,,Mixte,MX,56,0 days 02:41:32,0 days 03:20:27,0 days 04:27:50,0 days 04:30:42,0 days 02:17:49,4.7,duo,16242,8269
+113,2578,FRA,DIEULLE Martin / BUREL Justine,,Mixte,MX,57,,0 days 03:21:18,0 days 04:28:34,0 days 04:31:39,0 days 02:18:46,4.6,duo,16299,8326
+114,2568,FRA,BOUTEILLE Adrien / SERRON Christophe,ASPLMB - FNSP,Homme,HOM,29,0 days 02:45:18,0 days 03:19:50,0 days 04:29:26,0 days 04:32:14,0 days 02:19:21,4.6,duo,16334,8361
+115,2628,FRA,PITOU Anne-flavie / LATOUR Quentin,TOUT TERRAIN CLUB,Mixte,MX,58,0 days 02:50:06,0 days 03:29:25,0 days 04:32:41,0 days 04:35:10,0 days 02:22:17,4.6,duo,16510,8537
+116,2579,FRA,TEPHANY CONTANT Helene / FEBRERO Emmanuelle,,Femme,FEM,29,0 days 02:45:35,0 days 03:21:46,0 days 04:32:58,0 days 04:35:46,0 days 02:22:53,4.6,duo,16546,8573
+117,2569,FRA,TEPHANY Loic / RAPINET Nicolas,,Homme,HOM,30,0 days 02:52:23,0 days 03:25:20,0 days 04:35:52,0 days 04:39:03,0 days 02:26:10,4.5,duo,16743,8770
+118,2600,FRA,BENSOUDA Kenza / AVERLANT Cyril,,Mixte,MX,59,,,0 days 04:40:55,0 days 04:44:24,0 days 02:31:31,4.4,duo,17064,9091
+119,2513,FRA,FAIVRE ROUSSEL Sylvain / FAIVRE ROUSSEL Manon,,Mixte,MX,60,0 days 02:46:08,0 days 03:27:35,0 days 04:46:47,0 days 04:49:26,0 days 02:36:33,4.4,duo,17366,9393
+120,2532,FRA,REVIL Sophie / LETE Laetitia,,Femme,FEM,30,0 days 02:31:47,0 days 03:11:54,0 days 04:34:03,0 days 04:50:04,0 days 02:37:11,4.3,duo,17404,9431
+121,2577,FRA,SIWIEC Caroline / ELIE Benoit,,Mixte,MX,61,0 days 02:56:30,0 days 03:37:56,0 days 04:49:24,0 days 04:52:43,0 days 02:39:50,4.3,duo,17563,9590
+122,2503,FRA,C. M. /. C. E.,,Femme,FEM,31,,0 days 03:29:52,0 days 04:51:31,0 days 04:54:23,0 days 02:41:30,4.3,duo,17663,9690
+123,2605,FRA,ANASTASSIOS Méghane / GÉRARD Maxime,,Mixte,MX,62,0 days 02:48:46,0 days 03:34:59,0 days 04:56:17,0 days 04:59:22,0 days 02:46:29,4.2,duo,17962,9989
+124,2546,FRA,MARTIN Helene / LORET Marie,,Femme,FEM,32,0 days 03:00:12,0 days 03:44:11,0 days 05:03:04,0 days 05:06:28,0 days 02:53:35,4.1,duo,18388,10415
+125,2553,FRA,GABORIAU Sandrine / OLRY Camille,,Femme,FEM,33,0 days 03:16:26,0 days 03:56:26,0 days 05:08:41,0 days 05:11:59,0 days 02:59:06,4.0,duo,18719,10746
+126,2515,FRA,MAHIEUX Stéphanie / LEROUX Anne-valérie,,Femme,FEM,34,0 days 03:08:48,0 days 03:51:15,0 days 05:09:45,0 days 05:13:08,0 days 03:00:15,4.0,duo,18788,10815
+127,2522,FRA,POTEPA Stéphane / VANNEREUX Thomas,,Homme,HOM,31,0 days 02:55:49,0 days 03:42:40,0 days 05:12:52,0 days 05:16:00,0 days 03:03:07,4.0,duo,18960,10987
